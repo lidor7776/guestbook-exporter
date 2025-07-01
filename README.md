@@ -19,3 +19,11 @@
 - Supports Hebrew and special characters in CSV (UTF-8 with BOM)
 
 ## 📁 File Structure
+guestbook-exporter/
+├── index.php         
+├── messages.php      
+├── export.php         
+├── submit.php         
+├── messages.txt       
+├── style.css         
+├── README.md          
